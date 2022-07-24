@@ -1,7 +1,6 @@
 # santander-code-girls-
 Criado para mostar minha evolução no Bootcamp Santander Code Grils 2022.
-Introdução ao Git e ao GitHub
-Comandos no Prompt de Comando
+
 cmd - para abrir
 cd - ir até diretório/pasta
 dir - listar pastas
@@ -96,9 +95,3 @@ Qunado existe duas alterações na mesma linha
 
 git pull origin master
 REVISAR TUDO, MAIS PRA FRENTE DO CURSO
-
-Links para download
-Git
-
-Agradecimentos
-Professor Otávio Reis Perkles
